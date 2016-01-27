@@ -1,0 +1,8 @@
+Resources to check out to get the stepper to work:
+
+- https://github.com/adafruit/AccelStepper/tree/master/examples
+- http://www.airspayce.com/mikem/arduino/AccelStepper/examples.html
+
+-------
+
+Remember to give the stepper driver (Big Easy Driver) at least 2A (at ~12V DC)
